@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.urvish.sharedprefrencelogin.activities.AddItemActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_item"
+        android:padding="@dimen/_8dp"
+        android:layout_margin="@dimen/_8dp"/>
+    <EditText
+        android:id="@+id/editxt_todoitem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/add_item"
+        android:padding="@dimen/_8dp"
+        android:layout_margin="@dimen/_8dp"/>
+    <Button
+        android:id="@+id/btn_additem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_item"
+        android:padding="@dimen/_8dp"
+        android:layout_margin="@dimen/_8dp"/>
+</LinearLayout>

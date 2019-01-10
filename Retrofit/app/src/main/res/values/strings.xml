@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="add_body">add body!</string>
+    <string name="add_name">add name!</string>
+    <string name="name">Name:</string>
+    <string name="body">Body:</string>
+    <string name="submit">Submit</string>
+</resources>

@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.urvish.sharedprefrencelogin.fragments.PinLoginFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:text="@string/login"
+        android:layout_margin="@dimen/_8dp"
+        android:padding="@dimen/_8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pin"
+        android:layout_margin="@dimen/_8dp"
+        android:padding="@dimen/_8dp"
+        />
+    <EditText
+        android:id="@+id/edittxt_pin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/pin"
+        android:maxLines="1"
+        android:inputType="numberPassword"
+        android:maxLength="4"
+        android:layout_margin="@dimen/_8dp"
+        android:padding="@dimen/_8dp"
+        android:imeOptions="actionGo"/>
+    <Button
+        android:id="@+id/btn_pinlogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        android:layout_margin="@dimen/_8dp"
+        android:padding="@dimen/_8dp"/>
+
+</LinearLayout>

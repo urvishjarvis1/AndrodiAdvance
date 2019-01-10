@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BleDemo</string>
+    <string name="no_device">No BLE Device Found</string>
+</resources>

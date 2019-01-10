@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConfrimCredentialDemo</string>
+    <string name="granted">Access Granted</string>
+</resources>

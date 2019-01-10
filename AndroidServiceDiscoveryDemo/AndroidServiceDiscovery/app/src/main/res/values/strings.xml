@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidServiceDiscovery</string>
+    <string name="server_application">Server Application</string>
+    <string name="send_data">Send Data</string>
+</resources>

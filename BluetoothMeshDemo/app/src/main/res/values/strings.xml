@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothMeshDemo</string>
+    <string name="discover">Discover</string>
+    <string name="send_broadcast">Send Broadcast</string>
+</resources>

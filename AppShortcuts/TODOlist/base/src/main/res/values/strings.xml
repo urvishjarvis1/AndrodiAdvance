@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="editxt_uname">Enter User Name</string>
+    <string name="txt_uname">User Name</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="pin">PIN</string>
+    <string name="logout">Log Out</string>
+    <string name="clear">Clear</string>
+    <string name="title_activity_todo_list">User_name</string>
+    <string name="hello">Hello</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="news"><b>The Latest Data Privacy Debacle</b>
+        Did you make a New Year’s resolution to exercise more? Perhaps you downloaded a fitness app to help track your workouts, maybe one that allows you to share that data online with your exercise buddies?
+
+If so, you probably checked a box to accept the app’s privacy policy. For most apps, the default setting is to share data with at least the company; for many apps the default is to share data with the public. But you probably didn’t even notice or care. After all, what do you have to hide?
+
+For users of the exercise app Strava, the answer turns out to be a lot more than they realized. Since November, Strava has featured a global “heat map” showing where its users jogged or walked or otherwise traveled while the app was on. The map includes some three trillion GPS data points, covering more than 5 percent of the earth. Over the weekend, a number of security analysts showed that because many American military service members are Strava users, the map inadvertently reveals the locations of military bases and the movements of their personnel.
+
+Perhaps more alarming for the military, similar patterns of movement appear to possibly identify stations or airstrips in locations where the United States is not known to have such operations, as well as their supply and logistics routes. Analysts noted that with Strava’s interface, it is relatively easy to identify the movements of individual soldiers not just abroad but also when they are back at home, especially if combined with other public or social media data.
+
+Apart from chastening the cybersecurity experts in the Pentagon, the Strava debacle underscores a crucial misconception at the heart of the system of privacy protection in the United States. The privacy of data cannot be managed person-by-person through a system of individualized informed consent. </string>
+    <string name="menu_news">News</string>
+    <string name="todays_news">Today\'s News</string>
+    <string name="update">Update</string>
+</resources>

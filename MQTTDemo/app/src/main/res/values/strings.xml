@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MQTTDemo</string>
+    <string name="data_from_mqtt">Data From MQTT Cloud</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="subcribe_to_topic">Subcribe to topic</string>
+    <string name="unsubcribe_to_topic">Unsubcribe to topic</string>
+    <string name="publish">publish</string>
+    <string name="enter_data_to_publish">Enter data to publish</string>
+</resources>

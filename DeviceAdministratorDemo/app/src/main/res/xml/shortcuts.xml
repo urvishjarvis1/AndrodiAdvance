@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut icon="@drawable/ic_launcher_background"
+        enabled="true" shortcutId="a-unique-string-id"
+        shortcutShortLabel="@string/app_name"
+        shortcutLongLabel="@string/app_name">
+        <intent android:targetPackage="com.example.urvish.deviceadministratordemo"
+            android:targetClass="com.example.urvish.deviceadministratordemo.MyActivity"
+            android:action="android.intent.action.MAIN"
+            />
+    </shortcut>
+
+</shortcuts>

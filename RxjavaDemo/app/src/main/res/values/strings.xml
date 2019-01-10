@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxjavaDemo</string>
+    <string name="just_opration_with_filter">Just Opration with Filter</string>
+    <string name="map_operation">Map Operation with skip</string>
+    <string name="zip_operation">Zip operation with Take</string>
+    <string name="buffer_operation">Buffer operation</string>
+</resources>

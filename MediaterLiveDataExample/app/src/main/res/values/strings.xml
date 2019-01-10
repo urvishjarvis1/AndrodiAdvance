@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaterLiveDataExample</string>
+    <string name="changefname">Change First Name</string>
+    <string name="changesname">Change Second Name</string>
+</resources>

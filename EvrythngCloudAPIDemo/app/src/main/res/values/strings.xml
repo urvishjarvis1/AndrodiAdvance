@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EvrythngCloudAPIDemo</string>
+    <string name="available_items">Available Items</string>
+    <string name="available_thngs">Available Thngs</string>
+    <string name="description">Description</string>
+    <string name="color">color</string>
+    <string name="addModel">Model</string>
+</resources>

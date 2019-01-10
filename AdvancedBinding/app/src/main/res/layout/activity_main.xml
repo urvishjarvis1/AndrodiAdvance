@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+
+    </data>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <Button
+            android:text="Inflate the ViewStub"
+            android:onClick="inflateViewStub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ViewStub
+            android:id="@+id/view_stub"
+            android:layout="@layout/view_stub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</layout>

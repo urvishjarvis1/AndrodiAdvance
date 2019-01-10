@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="enter_pass">Enter Password:</string>
+    <string name="enter_email">Enter Email:</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="deleter">Delete</string>
+</resources>

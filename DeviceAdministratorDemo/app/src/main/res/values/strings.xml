@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DeviceAdministratorDemo</string>
+    <string name="simple_device_administrator">Device Administrator</string>
+    <string name="device_force_lock">Device force lock</string>
+    <string name="wipe_data">wipe data</string>
+    <string name="disable_camera">disable camera</string>
+    <string name="enable_camera">Enable Camera</string>
+    <string name="change_password">Change Password</string>
+    <string name="enable_kiosk_mode">Enable Kiosk Mode</string>
+    <string name="disable_kiosk_mode">Disable Kiosk Mode</string>
+    <string name="disable_device_admin">Disable Device Admin</string>
+</resources>

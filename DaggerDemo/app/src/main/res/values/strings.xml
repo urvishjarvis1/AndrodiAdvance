@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaggerDemo</string>
+    <string name="user_profile">User Profile</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="email">E-mail:</string>
+    <string name="lazydemo">Lazy Demo</string>
+</resources>

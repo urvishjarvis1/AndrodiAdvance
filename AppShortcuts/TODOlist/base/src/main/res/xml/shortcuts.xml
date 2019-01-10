@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:shortcutId="random"
+        android:icon="@drawable/ic_new_releases_black_24dp"
+        android:shortcutShortLabel="@string/app_name">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="com.example.volansys.alarmmanager.MainActivity"
+            android:targetPackage="com.example.volansys.alarmmanager"/>
+
+    </shortcut>
+
+
+</shortcuts>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NsdClientApp</string>
+    <string name="client_application">Client Application</string>
+    <string name="send_data">send Data</string>
+</resources>

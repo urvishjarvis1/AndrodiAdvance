@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseRealTimeDatabasedemo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="submit">submit</string>
+    <string name="update">Update</string>
+    <string name="all_data_n">All Data:</string>
+</resources>

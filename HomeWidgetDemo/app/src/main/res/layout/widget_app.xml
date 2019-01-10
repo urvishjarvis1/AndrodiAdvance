@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/widgettext"
+        android:layout_margin="@dimen/_2dp"
+        android:background="#ff6200"
+        android:contentDescription="@string/app_widget"
+        android:gravity="center"
+        android:text="@string/app_widget"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/_24sp"
+        android:textStyle="bold|italic"/>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidNativeApiNN</string>
+    <string name="compute">Compute</string>
+    <string name="input1">Input 1</string>
+    <string name="input2">input 2</string>
+    <string name="none">None</string>
+    <string name="result">result</string>
+</resources>

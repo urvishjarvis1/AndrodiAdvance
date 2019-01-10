@@ -1,0 +1,10 @@
+<device-admin>
+    <uses-policies>
+        <limit-password/>
+        <disable-camera/>
+        <reset-password/>
+        <force-lock/>
+        <wipe-data/>
+        <expire-password/>
+    </uses-policies>
+</device-admin>

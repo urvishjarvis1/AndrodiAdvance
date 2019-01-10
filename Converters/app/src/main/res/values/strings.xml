@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converters</string>
+    <string name="dose">Dose</string>
+    <string name="date">Date</string>
+</resources>

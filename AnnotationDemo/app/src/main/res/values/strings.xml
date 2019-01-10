@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnnotationDemo</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="profileimage">ProfileImage</string>
+    <string name="logout">logout</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+</resources>
